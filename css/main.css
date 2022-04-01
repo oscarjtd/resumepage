@@ -143,3 +143,6 @@ footer a:not(.nav-link) {
       background-color: #313131;
       border-color: #313131;
     }
+.bg-red{
+  background-color: #350000;
+}
