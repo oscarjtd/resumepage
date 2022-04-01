@@ -39,22 +39,22 @@
   z-index: 1; }
 
 .timeline-card-primary {
-  border-left-color: #4A89DC; }
+  border-left-color: #ff7474; }
 
 .timeline-card-primary:before {
-  border-color: #4A89DC; }
+  border-color: #ff7474; }
 
 .timeline-card-primary:after {
-  background-color: #4A89DC; }
+  background-color: #ff7474; }
 
 .timeline-card-success {
-  border-left-color: #37BC9B; }
+  border-left-color: #ff5353; }
 
 .timeline-card-success:before {
-  border-color: #37BC9B; }
+  border-color: #ff5353; }
 
 .timeline-card-success:after {
-  background-color: #37BC9B; }
+  background-color: #ff5353; }
 
 html {
   scroll-behavior: smooth; }
@@ -78,7 +78,9 @@ html {
   margin-left: 1rem; }
 
 .cover {
-  border-radius: 10px; }
+  border-radius: 10px; 
+}
+
 
 .cover-bg {
   background-color: #852c2c;
@@ -145,4 +147,10 @@ footer a:not(.nav-link) {
     }
 .bg-red{
   background-color: #350000;
+}
+.bg-black{
+  background-color: #242424;
+}
+.txt-white{
+  color:white;
 }
