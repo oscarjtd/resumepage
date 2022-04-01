@@ -39,4 +39,4 @@ You can find the template used in this project here: https://templateflip.com/te
 * [BootStrap](https://github.com/twbs/bootstrap)
 * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 
-![image](https://www.funlam.edu.co/uploads/sedemanizales/image/2018/09-Septiembre/logos_universidades_de_suma_y_mcu_04.png)
+![image](images/umlogo.png)
